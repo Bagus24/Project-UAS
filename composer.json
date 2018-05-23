@@ -1,0 +1,14 @@
+{
+    "name": "labsroom/data-mahasiswa",
+    "authors" :[
+        {
+            "name": "Bagus",
+            "email": "firgiawanbagus@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    }
+
+
+}
